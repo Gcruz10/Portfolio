@@ -19,8 +19,13 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
-Portfolio website
-file:///C:/Users/Gabriel%20Cruz/bootcamp/Portfolio/index.html#Work
+<a href="https://github.com/Gcruz10/Portfolio">
+<img src="./assets/images/portfolio.png" alt="portfolioSC" style="width: 350px; height: 250px;">
+</a>
 
-Github Repo 
+
+## Portfolio website
+https://gcruz10.github.io/Portfolio/
+
+## Github Repo 
 https://github.com/Gcruz10/Portfolio
